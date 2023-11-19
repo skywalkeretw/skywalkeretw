@@ -10,7 +10,6 @@ I'm a dedicated and team-spirited tech professional. Currently, I'm part of the 
 - **Programming Languages**: Proficient in Golang, Python, JavaScript, and Bash.
 - **Cloud Technologies**: Extensive experience with Kubernetes, Redhat Openshift, and containerization.
 - **DevOps Practices**: Hands-on experience with CI/CD tools like Jenkins, Github Actions, Travis, and Tekton.
-- **Certifications**: IBM Certified Advanced Architect, demonstrating expertise in designing, implementing and running large-scale enterprise cloud solutions.
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,8 +32,8 @@ I'm a dedicated and team-spirited tech professional. Currently, I'm part of the 
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### 🌟 **Certifications & Contributions**:
-- IBM Certified Advanced Architect
-- IBM Certified Professional Architect
+- IBM Certified Advanced Architect: demonstrating advanced knowlage in designing, implementing and running large-scale enterprise cloud solutions.
+- IBM Certified Professional Architect: demonstrating expertise in designing, implementing and running large-scale enterprise cloud solutions.
 - Open Source Committer for the Apache Project, specifically the Apache Openwhisk Project and its runtimes
 
 ### 🤖 **Machine Learning and More**:
